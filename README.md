@@ -23,3 +23,7 @@ Some minor errors occur, but overall, the model performs well within this range.
 The project successfully demonstrates temperature prediction using a neural network.
 The Arduino board processes the model without needing additional temperature sensors.
 The neural network is more accurate than linear regression and is chosen for implementation.
+Team members
+Raya Rezaie (401170575)
+Amirmohammad Kooshky (40019673)
+Mehrad Milanloo (99105775)
