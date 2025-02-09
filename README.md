@@ -25,7 +25,10 @@ The Arduino board processes the model without needing additional temperature sen
 The neural network is more accurate than linear regression and is chosen for implementation.
 
 
-#Team members
+Team members
+
 Raya Rezaie (401170575)
+
 Amirmohammad Kooshky (40019673)
+
 Mehrad Milanloo (99105775)
